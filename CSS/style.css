@@ -29,9 +29,38 @@ body {
     margin-right: 10%;
     
 }
-.intro p {
-    
-    
+.intro {
+    font-size: x-large;
+    padding: 20px;
+    margin-left: 5%;
 }
+.h1{
+    font-size:large;
+    margin-left: 6%;
+}
+
+.Shortbio {
+    font-size: medium;
+    margin-left: 12%;
+    }
+
+.h2 {
+    font-size: x-large;
+    padding-left: 45%;
+    padding-right: 50%;
+    
+}    
+.Tramigo img {
+    float: right;
+}
+}
+
+
+
+
+
+    
+    
+
     
 
