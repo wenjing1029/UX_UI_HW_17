@@ -22,6 +22,16 @@ body {
    margin-right: 10%;
 }
 
-
+.intro img{
+    display: block;
+    padding: 40px;
+    float: right;
+    margin-right: 10%;
+    
+}
+.intro p {
+    
+    
+}
     
 
