@@ -52,8 +52,26 @@ body {
 }    
 .Tramigo img {
     float: right;
+    margin-right: 10%;
+    padding: 25px;
 }
+.DescriptionOfTramigo {
+    font-family:'Times New Roman', Times, serif;
+    padding: 80px;
+    
 }
+.CSA img {
+    float: right;
+    margin-right: 10%;
+    padding: 25px;
+}
+
+.DescriptionOfCSA {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 80px;
+
+}
+
 
 
 
